@@ -19,17 +19,4 @@ export default {
 };
 </script>
 
-<style scoped>
-.app-container {
-  display: flex;
-  flex-direction: column;
-  height: 100vh;
-  background-color: #fbf7f2;
-}
-
-.main-content {
-  flex-grow: 1;
-  overflow-y: auto;
-  padding: 20px;
-}
-</style>
+<style scoped></style>
